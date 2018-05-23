@@ -1,0 +1,1 @@
+# stoqo-template
